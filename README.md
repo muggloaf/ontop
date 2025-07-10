@@ -101,9 +101,9 @@ lib/
 
 ## 👥 Team
 
-- **Alesha Mulla** - [muggloaf](github.com/muggloaf)
+- **Alesha Mulla** - [muggloaf](https://github.com/muggloaf)
 
-- **Ajinkya Ghule** - [GhuleAjinkya](github.com/GhuleAjinkya)
+- **Ajinkya Ghule** - [GhuleAjinkya](https://github.com/GhuleAjinkya)
 
 ---
 
