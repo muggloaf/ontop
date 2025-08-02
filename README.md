@@ -127,9 +127,8 @@ lib/
 
 ## 👥 Team
 
-- **Alesha Mulla** - muggloaf[https://github.com/muggloaf]
-
-- **Ajinkya Ghule** - GhuleAjinkya[https://github.com/GhuleAjinkya]
+- **Alesha Mulla** - [muggloaf](https://github.com/muggloaf)
+- **Ajinkya Ghule** - [GhuleAjikya](https://github.com/GhuleAjinkya)
 
 ---
 
